@@ -1,3 +1,11 @@
+This repository contains a fork of DREiMac as well as an extension implementating the Sparse Toroidal Coordinates Algorithm (Luis Scoccola, Hitesh Gakhar, Johnathan Bush, Nikolas Schonsheck, Tatum Rask, Ling Zhou, Jose Perea).
+
+For examples of the Toroidal Coordinates Algorithm, please see the directory notebooks-toroidal-coordinates.
+
+Next is the original README.
+
+---
+
 # DREiMac
 ## Dimension Reduction with Eilenberg-MacLane Coordinates
 ### Chris Tralie, Tom Mease, Jose Perea
